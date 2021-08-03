@@ -1,3 +1,3 @@
 # cookie-stand-admin# cookie-stand-admin
 
-PUll REQUEST
+https://github.com/abdelhadi-nofal/cookie-stand-admin/pull/2
